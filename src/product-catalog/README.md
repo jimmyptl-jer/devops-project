@@ -13,6 +13,7 @@ To build the service binary, run:
 
 ```sh
 export PRODUCT_CATALOG_PORT=<any-unique-port>
+8088
 go build -o product-catalog . 
 ```
 
